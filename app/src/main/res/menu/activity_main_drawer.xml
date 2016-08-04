@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/ic_account_multiple"
+            android:title="@string/list" />
+        <item
+            android:id="@+id/nav_values"
+            android:icon="@drawable/ic_square_inc_cash"
+            android:title="@string/valores_atuais" />
+
+        <item
+            android:id="@+id/values_def"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Definir valores"/>
+
+    </group>
+
+
+
+</menu>

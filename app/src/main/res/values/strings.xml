@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PeladaPay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_reload">Recarregar todos</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_total">TotalActivity</string>
+    <string name="valores_atuais">Valores Atuais</string>
+    <string name="list">Listagem</string>
+    <string name="title_activity_player">PlayerActivity</string>
+
+    <string name="selected_many">%1$s produtos selecionados</string>
+    <string name="selected_one">%1$s produto selecionado</string>
+    <string name="confirm">Sim</string>
+    <string name="notConfirm">Não</string>
+    <string name="titleReset">Resetar mês</string>
+    <string name="askReset">Deseja resetar o mês atual?</string>
+    <string name="title_activity_values">ValuesActivity</string>
+
+</resources>
